@@ -1,4 +1,2 @@
-# redux-lessons
-# redux-lessons
-# redux-lessons
-# redux-lessons
+# redux-lesson_01
+
